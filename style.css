@@ -111,9 +111,7 @@ body{
    font-weight: 500;
    cursor: pointer;
 }
-#btn_next:active{
-    text-decoration: none;
-}
+
 .forma_register{
     border-bottom: 6px solid black ;
     border-radius: 5px;
