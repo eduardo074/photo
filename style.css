@@ -120,3 +120,56 @@ body{
     margin: auto;
     margin-top: -20%;
 }
+
+/*pagina overflow*/
+
+.conteudo_first_section{
+    max-width: 545px;
+    margin: auto;
+}
+h1.discover{
+    font-family: 'Comfortaa', cursive;
+    font-size: 38px;
+    font-weight: 500;
+    margin: 8% 6% 8% 3%;
+}
+.span_overflow{
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    margin-left: 3.5%;
+    margin-bottom: 4%;
+}
+.fundo_img{
+    max-width: 545px;
+    width: 92%;
+    margin: auto;
+}
+.img_user{
+    width: 100%;
+}
+.img_perfil{
+      width: 28px;
+      height: 28px;
+    
+}
+.user{
+    margin-left: 3.5%;
+    display: flex;
+    align-items: center;
+    width: 175px;
+}
+.nick_user,.inden_user{
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 12px;
+    
+}
+.inden_user{
+    font-size: 16px;
+    font-weight: 900;
+}
+.nick_user{
+    font-size: 12px;
+}
